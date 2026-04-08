@@ -3,7 +3,7 @@ $ git clone git@github.com:kmhaomuren/hexo
 $ cd hexo
 
 
-# 下面两个命令必须运行，以安装node_modules
+# 下面命令必须运行，以安装hexo和node_modules等相关工具
 
 $ npm install -g hexo-cli
 
