@@ -2,9 +2,9 @@
 title: 好牧人主日信息（2026年4月12日）
 description: " "
 date: 2026-04-07 12:24:37
-tags:
-  - 主日信息
 categories:
+  - 主日信息
+tags:
   - 主日信息
 ---
 
