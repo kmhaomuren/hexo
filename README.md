@@ -9,8 +9,6 @@ $ npm install -g hexo-cli
 
 $ npm install
 
-$ npm install hexo-wordcount --save
-
 
 # 至此, hexo命令可用
 
