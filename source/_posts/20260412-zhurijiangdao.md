@@ -13,6 +13,10 @@ tags:
 <audio src="2026-04-12-主日讲道.mp3" controls style="max-width: 100%; width: 100%;"></audio>
 
 
+讲道录音（含敬拜）：
+<audio src="2026-04-12-主日讲道(含敬拜).mp3" controls style="max-width: 100%; width: 100%;"></audio>
+
+
 
 经文：诗篇84
 
